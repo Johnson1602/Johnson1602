@@ -1,7 +1,3 @@
 # Weiyi Xu
 
-Creator.
-
-I write codes, take photos, make videos.
-
-And I drink coffee.
+A creator, who write codes, take photos, and make videos.
